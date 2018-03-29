@@ -1,3 +1,12 @@
+__author__ = "Optimus Prime"
+__copyright__ = "Copyright 2018, The Prime Lab inc"
+__credits__ = ["Optimus Prime"]
+__license__ = "GPL"
+__version__ = "2.0"
+__maintainer__ = "Optimus Prime"
+__status__ = "Testing"
+__date__ = "29/03/18"
+
 import os
 import subprocess
 import logging
